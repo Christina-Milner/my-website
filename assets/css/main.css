@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-size: 3.25em;
+		font-size: 3em;
 		letter-spacing: -0.025em;
 		font-weight: 300;
 	}
@@ -1959,7 +1959,7 @@ input, select, textarea {
 
 		.wrapper.style4 {
 			background-color: #303030;
-			color: #a8a8a8;
+			color: #cacaca;
 			text-shadow: -1px -1px 0px #181818;
 		}
 
@@ -2089,7 +2089,7 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		color: #818181;
+		color: #9c9c9c;
 		font-size: 1em;
 		line-height: 1em;
 		list-style: none;
@@ -2391,4 +2391,9 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+	/* Ducks button*/
+	.pi {
+		text-align: right;
+		margin-right: 5em;
 	}
